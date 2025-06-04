@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/mdismielhossenabir/edible-and-poisonous-mushroom
 dataset utilizado para test con un total de 83 imagenes repartidas entre hongos venenosos y comestibles
 
 ## Modelos utilizados
--densenet 121 
+-densenet 121 (modelo final)
 
 Modelos probados no presentes en el codigo:
 
