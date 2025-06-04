@@ -40,3 +40,4 @@ codigo:
 https://colab.research.google.com/drive/1jsVKS8zs2LCc6PoajkxpoH61JWA6h1Ct?usp=sharing
 
 video:
+https://youtu.be/2xu8EgB_ic0
