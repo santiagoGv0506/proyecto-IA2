@@ -2,7 +2,9 @@
 
 ## Autores
 Santiago Gómez Villarreal - 2211866
+
 Juan Camilo Velandia Amórtegui - 2211878
+
 Nelson David Mendoza Castellanos - 2210047
 
 ## Objetivo
@@ -16,10 +18,15 @@ dataset utilizado para test con un total de 83 imagenes repartidas entre hongos 
 
 ## Modelos utilizados
 -densenet 121 
+
 Modelos probados no presentes en el codigo:
+
 -EfficientNetV2L
+
 -ResNet152V2
+
 -DenseNet201
+
 -EfficientNetB3
 
 ## Enlaces
